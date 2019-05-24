@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="iSlideTools.Plugins.JoinImages.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <iSlideTools.Plugins.JoinImages.Properties.Settings>
+            <setting name="JoinImagesSetting" serializeAs="String">
+                <value>{"FullWidth":1280,"IncludeHeader":true,"IncludeFooter":false,"FillWithBlank":false,"HorizontalCount":3,"OuterMarginValue":2,"InnerMarginValue":2}</value>
+            </setting>
+        </iSlideTools.Plugins.JoinImages.Properties.Settings>
+    </userSettings>
+</configuration>
